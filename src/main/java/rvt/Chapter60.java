@@ -36,7 +36,6 @@ public class Chapter60 {
     public static void ex4(){
         int[] valA   = { 13, -22,  82,  17}; 
         int[] valB   = {  0,   0,   0,   0};
-        
         for(int i = 0; i < valA.length; i = i + 1) {
             valB[i] = 25 - valA[i];
         }
