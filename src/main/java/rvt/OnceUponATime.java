@@ -1,6 +1,5 @@
 package rvt;
 public class OnceUponATime{
-    // Programmas sākuma punkts
     // Program entry point
     // main - funkcija
     public static void main(String[] args) {
