@@ -6,7 +6,7 @@ public class Greeting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Whats`s your name?");
+        System.out.println("Whats is your name?");
 
         String name = scanner.nextLine();
 
