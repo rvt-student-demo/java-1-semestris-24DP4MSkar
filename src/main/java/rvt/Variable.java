@@ -14,7 +14,7 @@ public class Variable{
         double TotalCena = skaits * cena;
         
 
-        System.out.println("Nosaukums:" + nosaukums);
+        System.out.println(" Nosaukums:" + nosaukums);
         System.out.println("Daudzums:" + skaits); 
         System.out.println("Cena:" + cena);
         System.out.println("TotalPrice:" + TotalCena);
